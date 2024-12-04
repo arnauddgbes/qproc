@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# cmake
+CMakeLists.txt.user
+CMakeUserPresets.json
+
+# build and installations
+build
+inst
